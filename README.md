@@ -44,4 +44,4 @@ In addition to classification, the project integrates **T5 Transformer** and **G
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ecg-report-generation.git
+   git clone https://github.com/GaganSingh111/ECG-Medical-Report-Generation.git
