@@ -35,7 +35,6 @@ In addition to classification, the project integrates **T5 Transformer** and **G
 ## Technologies and Libraries
 - Python
 - TensorFlow / Keras
-- Hugging Face Transformers
 - Scikit-learn
 - Imbalanced-learn (SMOTE)
 - SHAP
